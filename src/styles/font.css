@@ -1,0 +1,53 @@
+@font-face {
+  font-family: Geogrotesque Wide;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/font/geogrotesque-wide-regular.pzqe7gIxYCEv.850211cdce3044e514ab.woff2)
+      format('woff2'),
+    url(/font/geogrotesque-wide-regular.cIzstUfEYPZQ.6f39da5800ebf5b0df96.woff)
+      format('woff');
+}
+@font-face {
+  font-family: Geogrotesque Wide;
+  font-style: normal;
+  font-weight: 500;
+  src: url(/font/geogrotesque-wide-medium.UxiF-7Pcfp_T.b988ab8e082cd2950957.woff2)
+      format('woff2'),
+    url(/font/geogrotesque-wide-medium.dskucT_psv07.5dbc0b24aa1b7d54f2e9.woff)
+      format('woff');
+}
+@font-face {
+  font-family: Geogrotesque Wide;
+  font-style: normal;
+  font-weight: 700;
+  src: url(/font/geogrotesque-wide-semi-bold.8gTfg12XmqgC.9c2e4638e2b923df5034.woff2)
+      format('woff2'),
+    url(/font/geogrotesque-wide-semi-bold.UaKJov5Of6BV.b5b49614d77c156b6d0e.woff)
+      format('woff');
+}
+@font-face {
+  font-family: Geogrotesque Wide;
+  font-style: normal;
+  font-weight: 800;
+  src: url(/font/geogrotesque-wide-bold.gXRWMHj9Yrnb.bdd2267e75239f4be6f5.woff2)
+      format('woff2'),
+    url(/font/geogrotesque-wide-bold.Q86TrBA7Fnon.6c051ba88bd69210539f.woff)
+      format('woff');
+}
+@font-face {
+  font-family: Geogrotesque Wide;
+  font-style: italic;
+  font-weight: 800;
+  src: url(/font/GeogrotesqueWide-BdIt.2782180ea81ec7109a51.woff2)
+      format('woff2'),
+    url(/font/GeogrotesqueWide-BdIt.88b0e227affca078f4bd.woff) format('woff');
+}
+@font-face {
+  font-family: Commissar;
+  font-style: normal;
+  font-weight: 700;
+  src: url(/font/kommissar_condensed_bold-webfont.f40d6ce235ccc8c02b58.woff2)
+      format('woff2'),
+    url(/font/kommissar_condensed_bold-webfont.80a181c6812df0e18483.woff)
+      format('woff');
+}
